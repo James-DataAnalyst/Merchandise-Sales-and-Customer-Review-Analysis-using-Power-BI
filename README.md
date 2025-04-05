@@ -42,6 +42,7 @@ The dashboard is divided into three key views:
 - Impact Analysis: Shipping charges on total sales.
 
 [Interact with Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNGQ0ODZmYmQtMWYwYi00MTkzLWFmMGQtMDIwYTcwNzgwZmYwIiwidCI6IjZiYjI1Yjk2LTlhZTItNDkxMy1hZTYxLThmOGE3NDNjYTY5NiJ9)
+
 ![](M1.PNG)
 
 ### 2. Rating Analysis
